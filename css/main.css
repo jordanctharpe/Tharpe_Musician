@@ -156,6 +156,28 @@ nav ul li a{
   text-decoration: none;
 }
 
+/* Write your home page CSS here */
+
+
+
+/* Write your about page CSS here */
+
+
+/* Write your contact page CSS here */
+
+
+/* Media Queries */
+
+/* Tablet Size */
+@media screen and (max-width: 768px){
+
+
+}
+
+/* Mobile Size */
+@media screen and (max-width: 320px){
+}
+
    
 
 /* ==========================================================================
