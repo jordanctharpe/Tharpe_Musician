@@ -94,13 +94,37 @@ body{
 }
 
 /* sets up your top hero section....add your image */
-.hero_top{
-  background-image: url('..img/');
+.hometop{
+  background-image: url('../img/hometop.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   width: 100vw;
   height: 900px;
+}
+
+.homebottom{
+  background-image: url('../img/homebottom.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 900px;
+}
+
+.hero{
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 400px;
+border-image: url('../img/blurr.png');
+}
+
+.hero img{
+  width: 80%;
 }
 
 /* sets up the top name with background shadow */
